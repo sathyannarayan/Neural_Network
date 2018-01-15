@@ -1,4 +1,4 @@
-#A introduction to Neural Network using Scikit learn library
+# A introduction to Neural Network using Scikit learn library
 
 The Multi layer perceptron model uses Quasi-Newton method called LBFS(Limited memory Broyden–Fletcher–Goldfarb–Shanno algorithm) which used for 
 parameter estimation in ML and will apply for optimization problems with large number of inputs. Alpha is the learning constant set to (0.0001).
